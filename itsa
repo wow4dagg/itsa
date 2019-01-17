@@ -1,3 +1,7 @@
+/* ITSA 中文題庫 -> 陣列(Array) 第一題 */ 
+
+
+
 #include <stdio.h>
 
 int main()
